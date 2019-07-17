@@ -1,0 +1,5 @@
+server.port: 5002
+word: world
+words: 
+  EN: world
+  DE: Welt
